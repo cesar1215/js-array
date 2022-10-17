@@ -1,1 +1,1 @@
-Ejercicios de Arreglos
+Ejercicio de Arreglos
